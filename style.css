@@ -1,0 +1,30 @@
+main{
+    width: 800px;
+    height: 800px;
+    background-color: brown;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+H1{
+    color: bisque;
+}   
+
+.primeira {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.segunda {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
